@@ -1,1 +1,2 @@
-test.property: test
+test:
+  property: test
