@@ -1,8 +1,8 @@
 app.port: '8080'
-generate.routes: false
+generate.routes: 'false'
 log.level: info
-log.text: false
-in.memory: false
+log.text: 'false'
+in.memory: 'false'
 db:
   host: postgres
   port: '5432'
