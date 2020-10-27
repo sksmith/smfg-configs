@@ -1,4 +1,4 @@
-app.port: 8080
+app.port: '8080'
 generate.routes: false
 log.level: info
 log.text: false
