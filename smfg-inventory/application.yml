@@ -1,2 +1,17 @@
-test:
-  property: test
+app.port: 8080
+generate.routes: false
+log.level: info
+log.text: false
+in.memory: false
+db:
+  host: postgres
+  port: 5432
+  user: postgres
+  pass: postgres
+  name: inventory-db
+queue:
+  host: rabbitmq
+  port: 5672
+  user: guest
+  pass: guest
+  name: inventory

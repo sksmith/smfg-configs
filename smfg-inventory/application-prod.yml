@@ -1,2 +1,1 @@
-test:
-  property: prod
+log.level: warn
