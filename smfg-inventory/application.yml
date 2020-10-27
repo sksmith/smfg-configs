@@ -8,7 +8,7 @@ db:
   port: '5432'
   user: postgres
   pass: postgres
-  name: inventory-db
+  name: smfg-db
 queue:
   host: rabbitmq
   port: '5672'
