@@ -1,2 +1,4 @@
-log.level: trace
+log.level: info
 log.text: 'true'
+db.host: localhost
+queue.host: localhost
