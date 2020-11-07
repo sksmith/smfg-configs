@@ -11,8 +11,8 @@ db:
   name: smfg-db
   migrate: 'false'
 queue:
-  host: rabbitmq
+  host: rabbitmq-service
   port: '5672'
-  user: guest
-  pass: guest
+  user: smfg-inventory
+  pass: smfg-inventory
   name: inventory
