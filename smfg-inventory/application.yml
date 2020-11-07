@@ -4,7 +4,7 @@ log.level: info
 log.text: 'false'
 in.memory: 'false'
 db:
-  host: postgres
+  host: postgres-service
   port: '5432'
   user: postgres
   pass: postgres
