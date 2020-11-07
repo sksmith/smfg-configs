@@ -1,6 +1,6 @@
 log.level: info
 log.text: 'true'
 db:
-    host: localhost
-    migrate: 'true'
+  host: localhost
+  migrate: 'true'
 queue.host: localhost
