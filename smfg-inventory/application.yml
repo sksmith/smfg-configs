@@ -15,4 +15,7 @@ queue:
   port: '5672'
   user: smfg-inventory
   pass: smfg-inventory
-  name: inventory
+  inventory: 
+    exchange: inventory.fanout
+  reservation:
+    exchange: reservation.filled.fanout
